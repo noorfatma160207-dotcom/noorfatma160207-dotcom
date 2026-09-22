@@ -64,7 +64,7 @@ current_mission: "Mastering backend development & building full-stack applicatio
 <br/>
 
 #### **Tools & Environments**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools and Workflow" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools and Workflow" />
 
 </div>
 
