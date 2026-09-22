@@ -1,78 +1,40 @@
-# 🌸 Pastel Charms — Aesthetic Handmade Crafts Store
+<div align="center">
 
-A modern, cute, Instagram-aesthetic e-commerce website built for **Pastel Charms**, a small student-run handmade crafts business catering to college students and young people.
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30&height=210&section=header&text=noor%20.%20fatma%20🌷&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=turning%20curiosity%20into%20code%20%E2%9C%A7%202nd%20year%20cse%20undergrad&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
----
+  <!-- Dynamic Typing SVG -->
+  <a href="https://github.com/noorfatma160207-dotcom">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=17&duration=2800&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=aspiring+backend+%26+full-stack+developer+%E2%9C%A8;building+projects%2C+learning+every+day+%F0%9F%92%BB%F0%9F%8C%B7;exploring+java%2C+python%2C+javascript+%26+sql+%F0%9F%A7%B8;hackathon+enthusiast+%26+creative+builder+%F0%9F%8C%B8" alt="Typing SVG" />
+  </a>
 
-## ✨ Features Included
+  <br/><br/>
 
-1. **Aesthetic Handmade Design**:
-   - Soft cream/off-white background with subtle dotted texture.
-   - Pastel blush pink, lavender, butter yellow, mint, and mocha accents.
-   - Rounded pill cards, soft drop shadows, floating doodle stickers, and smooth hover animations.
-   - Clean typography using Google Fonts (*Quicksand*, *Caveat*, *Playfair Display*, *Nunito*).
+  <!-- Aesthetic Pill Socials -->
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FCE7F3?style=for-the-badge&logo=linkedin&logoColor=DB2777" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <img src="https://img.shields.io/badge/Email-FDF2F8?style=for-the-badge&logo=gmail&logoColor=BE185D" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="[YOUR_LIVE_PROJECT_OR_PORTFOLIO_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Projects-F3E8FF?style=for-the-badge&logo=safari&logoColor=7E22CE" alt="Live Projects" />
+  </a>
 
-2. **Homepage (`index.html`)**:
-   - Hero section with *"Handmade with love, made just for you ♡"* and CTA buttons (*Shop Now* & *Customize Your Bracelet*).
-   - Campus value props banner (*100% Handmade*, *Starting at ₹35*, *Free Campus Handoff*).
-   - Featured products grid with live Quick-View modal and instant Add-to-Cart.
-   - Shop by Category cards with direct filtering links.
-   - Interactive Bracelet Customizer teaser banner.
-   - "Why Choose Handmade?" comparison storytelling section.
-   - Campus reviews & testimonials with student names and colleges (DU, Christ, Mithibai, IIT Bombay).
-   - Instagram-style photo feed with likes and caption overlays.
-   - About section & Contact section with direct WhatsApp and Instagram buttons.
+</div>
 
-3. **Shop Catalog (`shop.html`)**:
-   - Category filtering pills with product counts (💎 Bracelets, 🌸 Pipe Cleaner Flowers, 🌹 Handmade Roses, 🎀 Custom Gifts, ✨ Other Crafts).
-   - Real-time search by craft name, description, and keywords.
-   - Sorting by Price (Low to High, High to Low), Best Sellers, and Ratings.
-   - Wishlist toggle to view saved favorites.
-   - Responsive product grid with badges (*Best Seller*, *New*, *Customizable ♡*).
-
-4. **Interactive Bracelet Customizer (`customize.html`)**:
-   - **Live Visual Bead Preview**: Dynamically draws the bracelet in SVG with 3D gradient spherical gloss beads.
-   - Real-time letter beads spelling whatever name or initials are typed.
-   - 7 Bead palettes (Blush Pink, Lavender, Mint, Buttercream, Pearl, Midnight, Cloud Blue).
-   - 3 Letter bead styles (White & Black, White & Gold, Pastel Colored).
-   - 4 Spacer bead options (Gold Metal, Silver, Mini Pearls, None).
-   - 7 Dangle charms (Puff Heart, Glass Evil Eye, Enamel Daisy, Star, Butterfly, Gummy Bear, None).
-   - Cord styles (Elastic Stretch, Clasp + Chain, Braided Tie).
-   - Live price breakdown calculator and "Add Customized Bracelet to Bag" button.
-
-5. **Persistent Shopping Bag / Cart Drawer**:
-   - Slide-over bag accessible from any page.
-   - Item quantity stepper (`+` / `-`), individual remove button, subtotal in ₹.
-   - Persists in browser `localStorage` across all pages.
-   - Toast notification popups on every action.
-
-6. **Student Checkout & Order Form (`checkout.html`)**:
-   - Student Name, WhatsApp phone number, College/University selector, and Campus Delivery Spot (Hostel/Gate/Canteen).
-   - Customization and gift note fields.
-   - Payment options tailored for campus life (Pay on Campus Delivery via Cash/UPI or Instant UPI).
-   - **"Place Order Now"** with celebratory confirmation modal:
-     *“Yay! Your handmade order has been received ♡ We’ll contact you soon to confirm the details.”*
-   - **"Send Order to WhatsApp"** button that pre-formats a polite, ready-to-send WhatsApp message with the entire order breakdown!
+<br/>
 
 ---
 
-## 🚀 How to Run the Website
+### 🌷 About Me
 
-### Option 1: Double Click
-Simply double-click `index.html` in your file explorer to open it in any web browser!
-
-### Option 2: Local HTTP Server (Python)
-Open a terminal in `C:\Users\ACER\.gemini\antigravity\scratch\pastel-charms` and run:
-```bash
-python -m http.server 8080
-```
-Then visit: `http://localhost:8080` in your browser.
-
----
-
-## 🎨 How to Edit Products & Prices
-
-All product information is organized in `js/products.js`:
-- To add or modify products, change prices in ₹, or update descriptions, edit the `PRODUCTS` array in `js/products.js`.
-- To change your WhatsApp number, Instagram handle, or store details, update `BUSINESS_CONFIG` in `js/products.js`.
-- To swap images, replace the URLs in `PRODUCTS` with your own photos or local file paths in `assets/`.
+```yaml
+student: Noor
+year: 2nd Year B.Tech — Computer Science & Engineering
+college: [YOUR COLLEGE / UNIVERSITY NAME]
+mindset: "🌱 Still learning, but actively building, experimenting & breaking things"
+interests: [Backend Systems, REST APIs, Database Design, Clean UI / UX]
+current_mission: "Mastering backend development & building full-stack applications"
