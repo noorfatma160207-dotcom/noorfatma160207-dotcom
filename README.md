@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-FDF2F8?style=for-the-badge&logo=gmail&logoColor=BE185D" alt="Email" />
   </a>
   &nbsp;
-  <a href="[YOUR_LIVE_PROJECT_OR_PORTFOLIO_URL]" target="_blank">
+  <a href="https://noorfatma160207-dotcom.github.io/pastel-charms/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Projects-F3E8FF?style=for-the-badge&logo=safari&logoColor=7E22CE" alt="Live Projects" />
   </a>
 
@@ -88,7 +88,7 @@ current_mission: "Mastering backend development & building full-stack applicatio
       </p>
       <p align="center">
         <a href="https://github.com/noorfatma160207-dotcom/pastel-charms"><b>📁 Code</b></a> &nbsp;•&nbsp; 
-        <a href="[YOUR_LIVE_DEMO_URL]"><b>✨ Live Demo</b></a>
+        <a href="https://noorfatma160207-dotcom.github.io/pastel-charms/"><b>✨ Live Demo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
