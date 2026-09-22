@@ -38,3 +38,153 @@ college: [YOUR COLLEGE / UNIVERSITY NAME]
 mindset: "🌱 Still learning, but actively building, experimenting & breaking things"
 interests: [Backend Systems, REST APIs, Database Design, Clean UI / UX]
 current_mission: "Mastering backend development & building full-stack applications"
+```
+
+- 💻 **What I'm doing:** Diving deep into backend fundamentals, server-side architecture, and database relationships while refining frontend interfaces.
+- 🧩 **Problem Solving:** Practicing core data structures and algorithmic thinking in Java & Python.
+- 🏆 **Hackathons & Teams:** Love participating in hackathons, collaborating in teams, and turning ideas into functioning MVPs under deadlines.
+- 🤍 **When I'm not coding:** Designing crafts & handmade jewelry, exploring cute UI aesthetics, and reading tech blogs.
+
+<br/>
+
+---
+
+### 🛠️ My Toolbox & Tech Stack
+
+<div align="center">
+
+#### **Languages**
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages" />
+
+<br/>
+
+#### **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" alt="Backend and Databases" />
+
+<br/>
+
+#### **Tools & Environments**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools and Workflow" />
+
+</div>
+
+<br/>
+
+---
+
+### 🌸 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌸 Pastel Charms</h3>
+      <p align="center"><b>Handmade Jewelry & Customizer Platform</b></p>
+      <p>An aesthetic, Instagram-inspired e-commerce platform for student craft businesses. Features a dynamic SVG-rendered custom bracelet generator with real-time beads preview, live cart drawer with <code>localStorage</code>, and instant WhatsApp order routing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-FFF1F2?style=flat-square&logo=html5&logoColor=E11D48" />
+        <img src="https://img.shields.io/badge/CSS3-F0FDF4?style=flat-square&logo=css3&logoColor=16A34A" />
+        <img src="https://img.shields.io/badge/JavaScript-FEFCE8?style=flat-square&logo=javascript&logoColor=CA8A04" />
+        <img src="https://img.shields.io/badge/SVG_Engine-FDF4FF?style=flat-square&logo=visual-studio-code&logoColor=9333EA" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/noorfatma160207-dotcom/pastel-charms"><b>📁 Code</b></a> &nbsp;•&nbsp; 
+        <a href="[YOUR_LIVE_DEMO_URL]"><b>✨ Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 [Hackathon Project Name]</h3>
+      <p align="center"><b>Collaborative Hackathon Solution</b></p>
+      <p>[Concise description of the problem your hackathon team solved. E.g., A lightweight web tool built in 24 hours to streamline student campus resources and project matchmaking.]</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-EFF6FF?style=flat-square&logo=python&logoColor=2563EB" />
+        <img src="https://img.shields.io/badge/REST_API-FAF5FF?style=flat-square&logo=fastapi&logoColor=7C3AED" />
+        <img src="https://img.shields.io/badge/Hackathon-FFFBEB?style=flat-square&logo=github&logoColor=D97706" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/noorfatma160207-dotcom/[HACKATHON_REPO]"><b>📁 Code</b></a> &nbsp;•&nbsp; 
+        <a href="[YOUR_PITCH_OR_DEMO]"><b>🎥 Pitch / Demo</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Backend REST API Service</h3>
+      <p align="center"><b>CRUD & Database Architecture</b></p>
+      <p>A modular backend service exploring REST architectural patterns, middleware pipeline validation, error handling structures, and relational database migrations.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-F0FDF4?style=flat-square&logo=node.js&logoColor=15803D" />
+        <img src="https://img.shields.io/badge/Express-F8FAFC?style=flat-square&logo=express&logoColor=334155" />
+        <img src="https://img.shields.io/badge/PostgreSQL-F0F9FF?style=flat-square&logo=postgresql&logoColor=0369A1" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/noorfatma160207-dotcom/[BACKEND_REPO]"><b>📁 Code</b></a> &nbsp;•&nbsp; 
+        <a href="[POSTMAN_DOCS_URL]"><b>📖 Endpoints</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Data Structures & Algorithms</h3>
+      <p align="center"><b>Problem Solving & CS Core</b></p>
+      <p>A curated collection of algorithmic solutions in Java and Python, organized methodically by data structure type, space/time complexity notes, and edge-case testing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-FFF7ED?style=flat-square&logo=openjdk&logoColor=C2410C" />
+        <img src="https://img.shields.io/badge/Python-EFF6FF?style=flat-square&logo=python&logoColor=1D4ED8" />
+        <img src="https://img.shields.io/badge/Problem_Solving-FDF2F8?style=flat-square&logo=leetcode&logoColor=BE185D" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/noorfatma160207-dotcom/dsa-problem-solving"><b>📁 Code & Notes</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🌱 Currently Exploring & Goals
+
+- 📚 **Deepening Backend Architecture:** Understanding asynchronous I/O, middleware lifecycle, and authentication (JWT/Sessions).
+- 🗄️ **Relational Databases:** Writing clean SQL joins, designing normalized database schemas, and query optimization.
+- 🎯 **3-Month Goal:** Build and deploy a complete full-stack web application with a custom backend & database.
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noorfatma160207-dotcom&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F472B6&icon_color=C084FC&text_color=E2E8F0" width="48%" alt="Noor's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorfatma160207-dotcom&layout=compact&theme=rose_pine&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F472B6&text_color=E2E8F0" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  ### 💌 Let's Connect!
+
+  <p>I'm always open to discussing backend projects, collaborating in hackathons, or learning together.</p>
+
+  <br/>
+
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FCE7F3?style=for-the-badge&logo=linkedin&logoColor=DB2777" />
+  </a>
+  &nbsp;
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <img src="https://img.shields.io/badge/Say_Hello-FDF2F8?style=for-the-badge&logo=gmail&logoColor=BE185D" />
+  </a>
+
+  <br/><br/>
+
+  <sub>✨ <i>"turning curiosity into code, one commit at a time 🌷"</i></sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30&height=90&section=footer" width="100%" />
+
+</div>
