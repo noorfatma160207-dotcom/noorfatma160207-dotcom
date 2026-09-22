@@ -125,9 +125,7 @@ current_mission: "Mastering backend development & building full-stack applicatio
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorfatma160207-dotcom&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F472B6&icon_color=C084FC&text_color=E2E8F0" width="48%" alt="Noor's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorfatma160207-dotcom&layout=compact&theme=rose_pine&hide_border=true&border_radius=12&bg_color=0D1117&title_color=F472B6&text_color=E2E8F0" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=noorfatma160207-dotcom&theme=rose_pine&hide_border=true&border_radius=12&background=0D1117&ring=F472B6&fire=FB7185&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=F472B6" width="95%" alt="Noor's GitHub Activity & Streak" />
 </div>
 
 <br/>
