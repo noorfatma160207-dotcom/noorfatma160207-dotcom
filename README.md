@@ -106,35 +106,6 @@ current_mission: "Mastering backend development & building full-stack applicatio
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Backend REST API Service</h3>
-      <p align="center"><b>CRUD & Database Architecture</b></p>
-      <p>A modular backend service exploring REST architectural patterns, middleware pipeline validation, error handling structures, and relational database migrations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-F0FDF4?style=flat-square&logo=node.js&logoColor=15803D" />
-        <img src="https://img.shields.io/badge/Express-F8FAFC?style=flat-square&logo=express&logoColor=334155" />
-        <img src="https://img.shields.io/badge/PostgreSQL-F0F9FF?style=flat-square&logo=postgresql&logoColor=0369A1" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/noorfatma160207-dotcom/[BACKEND_REPO]"><b>📁 Code</b></a> &nbsp;•&nbsp; 
-        <a href="[POSTMAN_DOCS_URL]"><b>📖 Endpoints</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧩 Data Structures & Algorithms</h3>
-      <p align="center"><b>Problem Solving & CS Core</b></p>
-      <p>A curated collection of algorithmic solutions in Java and Python, organized methodically by data structure type, space/time complexity notes, and edge-case testing.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-FFF7ED?style=flat-square&logo=openjdk&logoColor=C2410C" />
-        <img src="https://img.shields.io/badge/Python-EFF6FF?style=flat-square&logo=python&logoColor=1D4ED8" />
-        <img src="https://img.shields.io/badge/Problem_Solving-FDF2F8?style=flat-square&logo=leetcode&logoColor=BE185D" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/noorfatma160207-dotcom/dsa-problem-solving"><b>📁 Code & Notes</b></a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 <br/>
