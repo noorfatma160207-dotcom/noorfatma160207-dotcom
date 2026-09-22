@@ -34,7 +34,7 @@
 ```yaml
 student: Noor
 year: 2nd Year B.Tech — Computer Science & Engineering
-college: [YOUR COLLEGE / UNIVERSITY NAME]
+college: ITER SOA BBSR
 mindset: "🌱 Still learning, but actively building, experimenting & breaking things"
 interests: [Backend Systems, REST APIs, Database Design, Clean UI / UX]
 current_mission: "Mastering backend development & building full-stack applications"
@@ -58,7 +58,7 @@ current_mission: "Mastering backend development & building full-stack applicatio
 
 <br/>
 
-#### **Backend & Databases**
+#### **Backend & Databases (learning in progress)**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" alt="Backend and Databases" />
 
 <br/>
