@@ -36,7 +36,7 @@ student: Noor
 year: 2nd Year B.Tech — Computer Science & Engineering
 college: ITER SOA BBSR
 mindset: "🌱 Still learning, but actively building, experimenting & breaking things"
-interests: [Backend Systems, REST APIs, Database Design, Clean UI / UX]
+interests: Building Backend Systems, Exploring APIs & Databases, Full-Stack Development, Problem Solving
 current_mission: "Mastering backend development & building full-stack applications"
 ```
 
