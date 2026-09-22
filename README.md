@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Aesthetic Pill Socials -->
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+  <a href="https://linkedin.com/in/noor-fatma-095016396" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FCE7F3?style=for-the-badge&logo=linkedin&logoColor=DB2777" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -92,9 +92,9 @@ current_mission: "Mastering backend development & building full-stack applicatio
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏆 [Hackathon Project Name]</h3>
+      <h3 align="center">🏆 RaahSetu</h3>
       <p align="center"><b>Collaborative Hackathon Solution</b></p>
-      <p>[Concise description of the problem your hackathon team solved. E.g., A lightweight web tool built in 24 hours to streamline student campus resources and project matchmaking.]</p>
+      <p>Rural transportation is often poorly coordinated, causing higher costs, delays, and unused vehicle capacity. RaahSetu optimizes vehicle matching, shipment consolidation, and delivery routes.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-EFF6FF?style=flat-square&logo=python&logoColor=2563EB" />
         <img src="https://img.shields.io/badge/REST_API-FAF5FF?style=flat-square&logo=fastapi&logoColor=7C3AED" />
@@ -171,11 +171,11 @@ current_mission: "Mastering backend development & building full-stack applicatio
 
   <br/>
 
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+  <a href="https://linkedin.com/in/noor-fatma-095016396" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FCE7F3?style=for-the-badge&logo=linkedin&logoColor=DB2777" />
   </a>
   &nbsp;
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+  <a href="mailto:noorfatma160207@gmail.com">
     <img src="https://img.shields.io/badge/Say_Hello-FDF2F8?style=for-the-badge&logo=gmail&logoColor=BE185D" />
   </a>
 
